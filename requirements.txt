@@ -1,0 +1,7 @@
+pywinauto>=0.6.9
+comtypes>=1.2.0
+pyinstaller>=6.0.0
+pyJianYingDraft>=0.3.0
+pygame>=2.6.0
+flask>=3.0.0
+requests>=2.31.0

@@ -1,4 +1,7 @@
 # ZOLO Auto CapCut v2.0
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ZoloVN/Zolo-AutoCaptut/refs/heads/main/screenshot_1783997876.png" width="595" height="544">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/ZoloVN/Zolo-AutoCaptut/refs/heads/main/screenshot_1783997771.png" width="682" height="544">
 
 Tool tự động hoá cho CapCut PC, thao tác trực tiếp vào `draft_content.json` thay vì
 giả lập chuột/phím (khác với các tool "Auto CapCut" bán trên thị trường).
